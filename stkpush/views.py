@@ -44,7 +44,7 @@ def pay(request):
             "PartyB": LipanaMpesaPpassword.Business_short_code,
             "PhoneNumber": phone,
             "CallBackURL": "https://sandbox.safaricom.co.ke/mpesa/",
-            "AccountReference": "Apen Softwares",
+            "AccountReference": "Praiz Lofts",
             "TransactionDesc": "Web Development Charges"
         }
 
